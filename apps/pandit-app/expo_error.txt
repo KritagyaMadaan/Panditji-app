@@ -1,0 +1,80 @@
+﻿Starting project at C:\Users\krita\Documents\OneDrive\Desktop\Panditji app\apps\pandit-app
+node.exe : Error: The 
+required package 
+`expo-asset` cannot be 
+found
+At C:\nvm4w\nodejs\npx.ps1
+:29 char:3
++   & $NODE_EXE 
+$NPX_CLI_JS $args
++   ~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~
+    + CategoryInfo        
+      : NotSpecified: (E  
+  rror: The requ...cann   
+ ot be found:String) [    
+], RemoteException
+    + FullyQualifiedError 
+   Id : NativeCommandErr  
+  or
+ 
+Error: The required 
+package `expo-asset` 
+cannot be found
+    at getAssetPlugins (C:
+\Users\krita\Documents\One
+Drive\Desktop\Panditji app
+\apps\pandit-app\node_modu
+les\@expo\metro-config\src
+\ExpoMetroConfig.ts:65:11)
+    at getDefaultConfig (C
+:\Users\krita\Documents\On
+eDrive\Desktop\Panditji ap
+p\apps\pandit-app\node_mod
+ules\@expo\metro-config\sr
+c\ExpoMetroConfig.ts:373:2
+1)
+    at 
+loadMetroConfigAsync (C:\U
+sers\krita\Documents\OneDr
+ive\Desktop\Panditji app\a
+pps\pandit-app\node_module
+s\@expo\cli\src\start\serv
+er\metro\instantiateMetro.
+ts:96:43)
+    at 
+instantiateMetroAsync (C:\
+Users\krita\Documents\OneD
+rive\Desktop\Panditji app\
+apps\pandit-app\node_modul
+es\@expo\cli\src\start\ser
+ver\metro\instantiateMetro
+.ts:195:53)
+    at MetroBundlerDevServ
+er.startImplementationAsyn
+c (C:\Users\krita\Document
+s\OneDrive\Desktop\Panditj
+i app\apps\pandit-app\node
+_modules\@expo\cli\src\sta
+rt\server\metro\MetroBundl
+erDevServer.ts:940:69)
+    at MetroBundlerDevServ
+er.startAsync (C:\Users\kr
+ita\Documents\OneDrive\Des
+ktop\Panditji app\apps\pan
+dit-app\node_modules\@expo
+\cli\src\start\server\Bund
+lerDevServer.ts:160:18)
+    at DevServerManager.st
+artAsync (C:\Users\krita\D
+ocuments\OneDrive\Desktop\
+Panditji app\apps\pandit-a
+pp\node_modules\@expo\cli\
+src\start\server\DevServer
+Manager.ts:184:7)
+    at startAsync (C:\User
+s\krita\Documents\OneDrive
+\Desktop\Panditji app\apps
+\pandit-app\node_modules\@
+expo\cli\src\start\startAs
+ync.ts:99:3)
